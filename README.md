@@ -24,7 +24,7 @@ todo-list-manager/
 ├── main.cpp        # Main source code
 ├── tasks.txt       # File where tasks are stored
 └── README.md       # Project documentation
-🧠 How It Works
+
 
 Each task is stored using a C++ structure:
 
